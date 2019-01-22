@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_2"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_3"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.after"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.before"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="651200000t" end="662800000t" region="region.after" style="defaultStyle" xml:id="subtitle0">Bonjour, M. le Maire.</p>
+<p begin="694400000t" end="704400000t" region="region.after" style="defaultStyle" xml:id="subtitle1">M. le Maire.</p>
+<p begin="738800000t" end="808800000t" region="region.after" style="defaultStyle" xml:id="subtitle2">[la Marseillaise]</p>
+<p begin="873200000t" end="943200000t" region="region.after" style="defaultStyle" xml:id="subtitle3">[acclamations]</p>
+<p begin="1016800000t" end="1058000000t" region="region.after" style="defaultStyle" xml:id="subtitle4"><span style="defaultStyle_1">20 ans déjà !</span><br/><span style="defaultStyle_1">Putain ce que j'aime cette ville !</span></p>
+<p begin="1130400000t" end="1200400000t" region="region.after" style="defaultStyle" xml:id="subtitle5">[générique chanté en arabe]</p>
+<p begin="1789600000t" end="1807600000t" region="region.after" style="defaultStyle" xml:id="subtitle6">[acclamations]</p>
+<p begin="1808400000t" end="1836400000t" region="region.after" style="defaultStyle" xml:id="subtitle7">- Oh, il est beau, il est magnifique !<br/>- Magnifique !</p>
+<p begin="1837200000t" end="1862000000t" region="region.after" style="defaultStyle" xml:id="subtitle8">L'OM gagne, M. le Maire,<br/>c'est bon pour la Mairie ?</p>
+<p begin="1873200000t" end="1900800000t" region="region.after" style="defaultStyle" xml:id="subtitle9">Vous avez toujours été le roi des passes.<br/>Merci quand même.</p>
+<p begin="1961200000t" end="1982000000t" region="region.after" style="defaultStyle" xml:id="subtitle10">Tu rentres avec moi<br/>ou on se retrouve à la maison ?</p>
+<p begin="1989600000t" end="2025600000t" region="region.after" style="defaultStyle" xml:id="subtitle11">Non, Fred te déposera.<br/>C'est le grand jour pour le casino.</p>
+<p begin="2033200000t" end="2065200000t" region="region.after" style="defaultStyle" xml:id="subtitle12">- Tu es de corvée pour le casino ?<br/>- Robert et moi, seuls contre tous !</p>
+<p begin="2150000000t" end="2177200000t" region="region.after" style="defaultStyle" xml:id="subtitle13">Jette-le celui-là.<br/>Donne-moi l'autre.</p>
+<p begin="2229600000t" end="2266800000t" region="region.after" style="defaultStyle" xml:id="subtitle14">[voix speaker]<span style="defaultStyle_1"> C'est la mi-temps</span><br/><span style="defaultStyle_1">avec Marcelo pour une interview exclusive.</span></p>
+<p begin="2267600000t" end="2290000000t" region="region.after" style="defaultStyle" xml:id="subtitle15"><span style="defaultStyle_1">Marcelo, qu'est-ce que tu as pensé de...</span></p>
+<p begin="2306400000t" end="2330800000t" region="region.after" style="defaultStyle" xml:id="subtitle16">- Je vous l'enlève trois secondes.<br/>- Excusez-moi.</p>
+<p begin="2341600000t" end="2356400000t" region="region.after" style="defaultStyle" xml:id="subtitle17">Tu as reçu les analyses médicales ?</p>
+<p begin="2357200000t" end="2378800000t" region="region.after" style="defaultStyle" xml:id="subtitle18">Le laboratoire m'envoie ça<br/>la semaine prochaine.</p>
+<p begin="2379600000t" end="2398000000t" region="region.after" style="defaultStyle" xml:id="subtitle19">- T'inquiète pas, hein ?<br/>- Merci.</p>
+<p begin="2430800000t" end="2455200000t" region="region.after" style="defaultStyle" xml:id="subtitle20">M. le Maire, pour<span style="defaultStyle_1"> La Provence.</span></p>
+<p begin="2456000000t" end="2466000000t" region="region.after" style="defaultStyle" xml:id="subtitle21">Merci.</p>
+<p begin="2486800000t" end="2512800000t" region="region.after" style="defaultStyle" xml:id="subtitle22">- Madame la présidente.<br/>- M. le Maire.</p>
+<p begin="2513600000t" end="2526800000t" region="region.after" style="defaultStyle" xml:id="subtitle23">Edmond.</p>
+<p begin="2527600000t" end="2542400000t" region="region.after" style="defaultStyle" xml:id="subtitle24">Mme d'Abrantès.</p>
+<p begin="2543200000t" end="2564800000t" region="region.after" style="defaultStyle" xml:id="subtitle25">- Bravo, vous êtes le favori des sondages.<br/>- Merci.</p>
+<p begin="2565600000t" end="2583200000t" region="region.after" style="defaultStyle" xml:id="subtitle26">Les sondages ne rassurent que les fayots.</p>
+<p begin="2583999999t" end="2608399999t" region="region.after" style="defaultStyle" xml:id="subtitle27">M. d'Abrantès,<br/>pardon, je ne vous avais pas vu.</p>
+<p begin="2625600000t" end="2650000000t" region="region.after" style="defaultStyle" xml:id="subtitle28">Ça t'emmerde pas<br/>de tirer la laisse d'un clébard</p>
+<p begin="2650800000t" end="2668000000t" region="region.after" style="defaultStyle" xml:id="subtitle29">qui te lèche le fion depuis dix ans ?</p>
+<p begin="2676400000t" end="2695600000t" region="region.after" style="defaultStyle" xml:id="subtitle30">Tant qu'il ne mord pas, ça va.</p>
+<p begin="2707200000t" end="2736800000t" region="region.after" style="defaultStyle" xml:id="subtitle31">Un jour, il faudra que tu m'expliques<br/>pourquoi tu t'arrêtes.</p>
+<p begin="2737600000t" end="2758400000t" region="region.after" style="defaultStyle" xml:id="subtitle32">Pour m'occuper de ma famille.</p>
+<p begin="2759200000t" end="2770400000t" region="region.after" style="defaultStyle" xml:id="subtitle33">C'est des bobards.</p>
+<p begin="2782400000t" end="2804800000t" region="region.after" style="defaultStyle" xml:id="subtitle34">C'est comme une femme et une maîtresse.</p>
+<p begin="2814400000t" end="2839600000t" region="region.after" style="defaultStyle" xml:id="subtitle35">Je garde la première,<br/>et on planque la seconde.</p>
+<p begin="2848800000t" end="2882000000t" region="region.after" style="defaultStyle" xml:id="subtitle36">Pourquoi tu crois<br/>que je donne la Mairie à Barrès ?</p>
+<p begin="2882800000t" end="2905600000t" region="region.after" style="defaultStyle" xml:id="subtitle37">Il me respecte comme son père.</p>
+<p begin="2906400000t" end="2932000000t" region="region.after" style="defaultStyle" xml:id="subtitle38">Je le dirigerai comme un fils.</p>
+<p begin="2932800000t" end="2954800000t" region="region.after" style="defaultStyle" xml:id="subtitle39">On ne partage pas sa maîtresse<br/>avec son fils.</p>
+<p begin="2971200000t" end="2990400000t" region="region.after" style="defaultStyle" xml:id="subtitle40">Je n'ai pas dit que je partagerai !</p>
+<p begin="3090800000t" end="3104400000t" region="region.after" style="defaultStyle" xml:id="subtitle41">Bouge !</p>
+<p begin="3127200000t" end="3197200000t" region="region.after" style="defaultStyle" xml:id="subtitle42">[alarme]</p>
+<p begin="3287200000t" end="3297200000t" region="region.after" style="defaultStyle" xml:id="subtitle43">Ton sac !</p>
+<p begin="3449200000t" end="3474000000t" region="region.after" style="defaultStyle" xml:id="subtitle44">[journaliste] A votre avis,<br/>la Mairie va gagner le casino ?</p>
+<p begin="3474800000t" end="3486000000t" region="region.after" style="defaultStyle" xml:id="subtitle45">[Barrès] Qui peut le dire ?</p>
+<p begin="3500000000t" end="3530400000t" region="region.after" style="defaultStyle" xml:id="subtitle46">On se retrouve au conseil.<br/>C'est toi qui sonnes la charge.</p>
+<p begin="3531200000t" end="3547600000t" region="region.after" style="defaultStyle" xml:id="subtitle47">Vous avez mes lunettes, Fred ?</p>
+<p begin="3611200000t" end="3622400000t" region="region.after" style="defaultStyle" xml:id="subtitle48">S'il vous plaît, monsieur.</p>
+<p begin="3623200000t" end="3638000000t" region="region.after" style="defaultStyle" xml:id="subtitle49">Il fait trop chaud dans cette ville.</p>
+<p begin="3638800000t" end="3654400000t" region="region.after" style="defaultStyle" xml:id="subtitle50">[journaliste] M. le Maire,<br/>il vous a plu, le match ?</p>
+<p begin="3655200000t" end="3670800000t" region="region.after" style="defaultStyle" xml:id="subtitle51">J'adore le "footballe".</p>
+<p begin="3671600000t" end="3698000000t" region="region.after" style="defaultStyle" xml:id="subtitle52">Arrête de dire "footballe", s'il te plaît.<br/>Ça fait vieux !</p>
+<p begin="3698800000t" end="3732800000t" region="region.after" style="defaultStyle" xml:id="subtitle53">Tu te trompes.<br/>Ça fait humaniste.</p>
+<p begin="3733600000t" end="3759600000t" region="region.after" style="defaultStyle" xml:id="subtitle54">Ça va me ramener un demi-point<br/>chez les plus de 70 ans.</p>
+<p begin="3770400000t" end="3800800000t" region="region.after" style="defaultStyle" xml:id="subtitle55">J'en ai marre de tout ça.<br/>Les journalistes, les trucs officiels.</p>
+<p begin="3801600000t" end="3847200000t" region="region.after" style="defaultStyle" xml:id="subtitle56">Les discours, les salamalecs avec des gens<br/>dont j'en ai rien à foutre, c'est...</p>
+<p begin="3848000000t" end="3858000000t" region="region.after" style="defaultStyle" xml:id="subtitle57">C'est lourd.</p>
+<p begin="3858800000t" end="3876800000t" region="region.after" style="defaultStyle" xml:id="subtitle58">C'est pas vrai. T'adores les pince-fesses.</p>
+<p begin="3884400000t" end="3908400000t" region="region.after" style="defaultStyle" xml:id="subtitle59">Les pince-fesses ? C'est toi qui aimes.</p>
+<p begin="3938000000t" end="3957600000t" region="region.after" style="defaultStyle" xml:id="subtitle60">Les pince-fesses...</p>
+<p begin="3958400000t" end="3975200000t" region="region.after" style="defaultStyle" xml:id="subtitle61">ça te met le feu au cul.</p>
+<p begin="3987600000t" end="4004400000t" region="region.after" style="defaultStyle" xml:id="subtitle62">N'importe quoi.</p>
+<p begin="4005200000t" end="4032400000t" region="region.after" style="defaultStyle" xml:id="subtitle63">Fred, mettez-nous notre musique,<br/>s'il vous plaît.</p>
+<p begin="4045600000t" end="4083600000t" region="region.after" style="defaultStyle" xml:id="subtitle64">[Nino Ferrer<br/>"La maison près de la fontaine"]</p>
+<p begin="4084400000t" end="4148400000t" region="region.after" style="defaultStyle" xml:id="subtitle65">[sonnerie de portable]</p>
+<p begin="4149200000t" end="4167600000t" region="region.after" style="defaultStyle" xml:id="subtitle66">Attendez, je suis en pleine réunion.</p>
+<p begin="4180400000t" end="4204400000t" region="region.after" style="defaultStyle" xml:id="subtitle67">On se rappelle plus tard.<br/>C'est pas possible !</p>
+<p begin="4205200000t" end="4222800000t" region="region.after" style="defaultStyle" xml:id="subtitle68">C'est pas après vous que je dis ça.</p>
+<p begin="4231200000t" end="4250400000t" region="region.after" style="defaultStyle" xml:id="subtitle69">À plus tard. Merci.<br/>Excusez-moi.</p>
+<p begin="4269200000t" end="4280800000t" region="region.after" style="defaultStyle" xml:id="subtitle70">Salaud !</p>
+<p begin="4296800000t" end="4321200000t" region="region.after" style="defaultStyle" xml:id="subtitle71">C'est comme les élections.<br/>Il y a deux tours !</p>
+<p begin="4402000000t" end="4416000000t" region="region.after" style="defaultStyle" xml:id="subtitle72">Deux minutes, s'il te plaît.</p>
+<p begin="4416800000t" end="4441600000t" region="region.after" style="defaultStyle" xml:id="subtitle73">Il y a eu une descente hier à Félix Pyat.<br/>La Bac a débarqué.</p>
+<p begin="4442400000t" end="4465600000t" region="region.after" style="defaultStyle" xml:id="subtitle74">- Je sais, on est dessus.<br/>- J'ai un pote qui vit là-bas.</p>
+<p begin="4466400000t" end="4478800000t" region="region.after" style="defaultStyle" xml:id="subtitle75">Je peux m'en occuper ?</p>
+<p begin="4479600000t" end="4512000000t" region="region.after" style="defaultStyle" xml:id="subtitle76">- Si tu signes de ton vrai nom, oui.<br/>- Crimsonne, c'est le nom de ma mère.</p>
+<p begin="4521200000t" end="4534800000t" region="region.after" style="defaultStyle" xml:id="subtitle77">C'est pas celui de ton père.</p>
+<p begin="4535600000t" end="4557200000t" region="region.after" style="defaultStyle" xml:id="subtitle78">Ça fait six mois que je suis là,<br/>j'entends que ça.</p>
+<p begin="4572000000t" end="4584000000t" region="region.after" style="defaultStyle" xml:id="subtitle79">Je te rappelle.</p>
+<p begin="4599200000t" end="4618000000t" region="region.after" style="defaultStyle" xml:id="subtitle80">Qu'est-ce qu'il a de plus,<br/>le nom de mon père ?</p>
+<p begin="4621200000t" end="4646000000t" region="region.after" style="defaultStyle" xml:id="subtitle81">- Le journal y gagne.<br/>- Ouais, je comprends.</p>
+<p begin="4646800000t" end="4664400000t" region="region.after" style="defaultStyle" xml:id="subtitle82">Je suis journaliste, je suis pas caution.</p>
+<p begin="4665200000t" end="4689600000t" region="region.after" style="defaultStyle" xml:id="subtitle83">Je t'ai engagée pour t'occuper du site,<br/>pas de la rédaction.</p>
+<p begin="4690400000t" end="4702000000t" region="region.after" style="defaultStyle" xml:id="subtitle84">Ouais, merci.</p>
+<p begin="4702800000t" end="4729200000t" region="region.after" style="defaultStyle" xml:id="subtitle85">- Sauf si tu signes.<br/>- Jamais !</p>
+<p begin="4730000000t" end="4746400000t" region="region.after" style="defaultStyle" xml:id="subtitle86">Et je vais quand même à Félix Pyat.</p>
+<p begin="5036000000t" end="5047600000t" region="region.after" style="defaultStyle" xml:id="subtitle87">Celle-là, je la garde.</p>
+<p begin="5088000000t" end="5120800000t" region="region.after" style="defaultStyle" xml:id="subtitle88">Tu peux le planquer chez toi ?<br/>Je m'en suis servi sur un autre coup.</p>
+<p begin="5556000000t" end="5626000000t" region="region.after" style="defaultStyle" xml:id="subtitle89">[brouhaha]</p>
+<p begin="5637200000t" end="5674400000t" region="region.after" style="defaultStyle" xml:id="subtitle90">Foutez les dockers dehors !<br/>Virez la CGT ! Qu'ils aillent à Fos !</p>
+<p begin="5685600000t" end="5709200000t" region="region.after" style="defaultStyle" xml:id="subtitle91">On parle d'une marina,<br/>il n'y a pas que le casino.</p>
+<p begin="5710000000t" end="5731600000t" region="region.after" style="defaultStyle" xml:id="subtitle92">La marina, c'est une hérésie !</p>
+<p begin="5736800000t" end="5766000000t" region="region.after" style="defaultStyle" xml:id="subtitle93">C'était évident, Chasseron,<br/>que vous seriez contre la marina.</p>
+<p begin="5766800000t" end="5789600000t" region="region.after" style="defaultStyle" xml:id="subtitle94">Les élections sont dans six semaines,</p>
+<p begin="5790400000t" end="5805600000t" region="region.after" style="defaultStyle" xml:id="subtitle95">vous deviez trouver une posture.</p>
+<p begin="5818800000t" end="5849200000t" region="region.after" style="defaultStyle" xml:id="subtitle96">Tout le monde sait, M. le premier adjoint,<br/>pourquoi vous défendez</p>
+<p begin="5850000000t" end="5866000000t" region="region.after" style="defaultStyle" xml:id="subtitle97">le réaménagement du port.</p>
+<p begin="5866800000t" end="5892000000t" region="region.after" style="defaultStyle" xml:id="subtitle98">Parce que je représente la Mairie<br/>au Conseil du port.</p>
+<p begin="5892800000t" end="5910800000t" region="region.after" style="defaultStyle" xml:id="subtitle99">Marseille doit évoluer avec son temps.</p>
+<p begin="5911600000t" end="5936800000t" region="region.after" style="defaultStyle" xml:id="subtitle100">Il y a un fossé entre votre génération</p>
+<p begin="5937600000t" end="5953200000t" region="region.after" style="defaultStyle" xml:id="subtitle101">et celle d'aujourd'hui.</p>
+<p begin="5954000000t" end="5995200000t" region="region.after" style="defaultStyle" xml:id="subtitle102">Il ne vous appartient plus de décider<br/>pour une ville qui doit se moderniser.</p>
+<p begin="5996000000t" end="6026400000t" region="region.after" style="defaultStyle" xml:id="subtitle103">Et qui le fera, malgré vous,<br/>ou sinon, contre vous.</p>
+<p begin="6027200000t" end="6063600000t" region="region.after" style="defaultStyle" xml:id="subtitle104">[applaudissements et acclamations]</p>
+<p begin="6064400000t" end="6100800000t" region="region.after" style="defaultStyle" xml:id="subtitle105">Defferre était contre le casino.<br/>Respectez l'histoire de Marseille.</p>
+<p begin="6101600000t" end="6125600000t" region="region.after" style="defaultStyle" xml:id="subtitle106">Defferre, c'était il y a 30 ans !</p>
+<p begin="6126400000t" end="6146400000t" region="region.after" style="defaultStyle" xml:id="subtitle107">Le casino va ramener toutes les mafias.</p>
+<p begin="6147200000t" end="6159200000t" region="region.after" style="defaultStyle" xml:id="subtitle108">Évidemment !</p>
+<p begin="6168000000t" end="6213600000t" region="region.after" style="defaultStyle" xml:id="subtitle109">Un conseil municipal n'est pas<br/>une cour de récréation.</p>
+<p begin="6217600000t" end="6242000000t" region="region.after" style="defaultStyle" xml:id="subtitle110">Apprenez à vous tenir,<br/>Mesdames et Messieurs.</p>
+<p begin="6242800000t" end="6257200000t" region="region.after" style="defaultStyle" xml:id="subtitle111">Surtout Messieurs.</p>
+<p begin="6299600000t" end="6326000000t" region="region.after" style="defaultStyle" xml:id="subtitle112">Mme Marek,<br/>apportez la parole de la justice</p>
+<p begin="6326800000t" end="6341200000t" region="region.after" style="defaultStyle" xml:id="subtitle113">à ces jeux du cirque.</p>
+<p begin="6349600000t" end="6386800000t" region="region.after" style="defaultStyle" xml:id="subtitle114">Quand je jugeais les affaires<br/>de corruption, j'étais contre le casino,</p>
+<p begin="6387600000t" end="6420000000t" region="region.after" style="defaultStyle" xml:id="subtitle115">car les casinos, c'était des usines<br/>à blanchir l'argent de la drogue.</p>
+<p begin="6424800000t" end="6445600000t" region="region.after" style="defaultStyle" xml:id="subtitle116">Maintenant, c'est fini,<br/>il y a trop de contrôles.</p>
+<p begin="6456400000t" end="6496800000t" region="region.after" style="defaultStyle" xml:id="subtitle117">C'est pour ça que je défendrai le casino<br/>dimanche au Conseil du port.</p>
+<p begin="6502800000t" end="6522000000t" region="region.after" style="defaultStyle" xml:id="subtitle118">[clic d'objectif]</p>
+<p begin="6522800000t" end="6552400000t" region="region.after" style="defaultStyle" xml:id="subtitle119">[acclamations et applaudissements]</p>
+<p begin="6553200000t" end="6589600000t" region="region.after" style="defaultStyle" xml:id="subtitle120">Le casino, c'est une perte<br/>d'au moins 30 millions d'euros</p>
+<p begin="6590400000t" end="6617200000t" region="region.after" style="defaultStyle" xml:id="subtitle121">pour les mafias qui contrôlent<br/>les machines à sous illégales</p>
+<p begin="6618000000t" end="6630800000t" region="region.after" style="defaultStyle" xml:id="subtitle122">qu'on trouve dans les bars.</p>
+<p begin="6631600000t" end="6657600000t" region="region.after" style="defaultStyle" xml:id="subtitle123">Le groupe socialiste appuiera<br/>la motion de la Mairie.</p>
+<p begin="6674400000t" end="6706400000t" region="region.after" style="defaultStyle" xml:id="subtitle124">Le Parti Français votera contre.</p>
+<p begin="6721200000t" end="6747600000t" region="region.after" style="defaultStyle" xml:id="subtitle125">Et pourtant,<br/>nous sommes très jeunes, M. Barrès.</p>
+<p begin="6748400000t" end="6789600000t" region="region.after" style="defaultStyle" xml:id="subtitle126">Vous n'êtes pas le seul à représenter<br/>la nouvelle génération dans cet hémicycle.</p>
+<p begin="6790400000t" end="6818400000t" region="region.after" style="defaultStyle" xml:id="subtitle127">Mais bien sûr, nous avons tous vu<br/>que vous étiez un jeune vieux,</p>
+<p begin="6819200000t" end="6834000000t" region="region.after" style="defaultStyle" xml:id="subtitle128">tout le monde le sait ici, hein ?</p>
+<p begin="6861600000t" end="6896400000t" region="region.after" style="defaultStyle" xml:id="subtitle129">En tant que présidente du Conseil général,<br/>j'ai une question très simple.</p>
+<p begin="6897200000t" end="6932000000t" region="region.after" style="defaultStyle" xml:id="subtitle130">J'aimerais savoir, M. le Maire,<br/>pourquoi vous défendez le casino,</p>
+<p begin="6932800000t" end="6951200000t" region="region.after" style="defaultStyle" xml:id="subtitle131">alors que vous vous y êtes<br/>toujours opposé ?</p>
+<p begin="6952000000t" end="6975600000t" region="region.after" style="defaultStyle" xml:id="subtitle132">Je défends un projet global.</p>
+<p begin="6976400000t" end="6998000000t" region="region.after" style="defaultStyle" xml:id="subtitle133">Une marina, des hôtels,</p>
+<p begin="6998800000t" end="7020800000t" region="region.after" style="defaultStyle" xml:id="subtitle134">et aussi, un casino.</p>
+<p begin="7029200000t" end="7070400000t" region="region.after" style="defaultStyle" xml:id="subtitle135">Je veux que Marseille devienne<br/>la capitale de l'Europe du Sud.</p>
+<p begin="7071200000t" end="7112800000t" region="region.after" style="defaultStyle" xml:id="subtitle136">[applaudissements]</p>
+<p begin="7113600000t" end="7151600000t" region="region.after" style="defaultStyle" xml:id="subtitle137">Et vous croyez qu'un casino ouvrira<br/>la porte de la ville sur la Méditerranée ?</p>
+<p begin="7157200000t" end="7172400000t" region="region.after" style="defaultStyle" xml:id="subtitle138">Un casino seul, non.</p>
+<p begin="7173200000t" end="7191600000t" region="region.after" style="defaultStyle" xml:id="subtitle139">Mais tout un complexe, oui.</p>
+<p begin="7192400000t" end="7219600000t" region="region.after" style="defaultStyle" xml:id="subtitle140">C'est un peu comme une belle femme.<br/>La robe ne suffit pas.</p>
+<p begin="7220400000t" end="7242000000t" region="region.after" style="defaultStyle" xml:id="subtitle141">Il faut du maquillage, des bijoux,</p>
+<p begin="7242800000t" end="7262800000t" region="region.after" style="defaultStyle" xml:id="subtitle142">et puis beaucoup d'autres choses.</p>
+<p begin="7263600000t" end="7319600000t" region="region.after" style="defaultStyle" xml:id="subtitle143">[applaudissements, rires et sifflets]</p>
+<p begin="7320400000t" end="7335600000t" region="region.after" style="defaultStyle" xml:id="subtitle144">Nous allons procéder au vote.</p>
+<p begin="7533200000t" end="7543200000t" region="region.after" style="defaultStyle" xml:id="subtitle145">Ça va ou quoi ?</p>
+<p begin="7548800000t" end="7564400000t" region="region.after" style="defaultStyle" xml:id="subtitle146">Mon frère, c'est qui, la meuf ?</p>
+<p begin="7573600000t" end="7591600000t" region="region.after" style="defaultStyle" xml:id="subtitle147">C'est pas une heure pour niquer !</p>
+<p begin="7592400000t" end="7615200000t" region="region.after" style="defaultStyle" xml:id="subtitle148">- Je peux passer, les gars ?<br/>- Allez, vas-y.</p>
+<p begin="8000800000t" end="8015600000t" region="region.after" style="defaultStyle" xml:id="subtitle149">J'ai besoin de ton ambulance.</p>
+<p begin="8016400000t" end="8034400000t" region="region.after" style="defaultStyle" xml:id="subtitle150">Non, mec, je t'ai déjà dit, je peux pas.</p>
+<p begin="8043200000t" end="8057600000t" region="region.after" style="defaultStyle" xml:id="subtitle151">Vas-y, je te dédommage.</p>
+<p begin="8058400000t" end="8088800000t" region="region.after" style="defaultStyle" xml:id="subtitle152">Comment je trimballe la clientèle ?<br/>Je veux pas rentrer dans tes combines.</p>
+<p begin="8102000000t" end="8112000000t" region="region.after" style="defaultStyle" xml:id="subtitle153">Quelle combine ?</p>
+<p begin="8112800000t" end="8134000000t" region="region.after" style="defaultStyle" xml:id="subtitle154">Tu crois que j'ai que ça à foutre,<br/>de charger du shit !</p>
+<p begin="8140800000t" end="8162000000t" region="region.after" style="defaultStyle" xml:id="subtitle155">Ça y est, y a ta meuf,<br/>tu parles comme ça, maintenant ?</p>
+<p begin="8187600000t" end="8210800000t" region="region.after" style="defaultStyle" xml:id="subtitle156">Tu sais que tu vas manger, petit enculé.</p>
+<p begin="8287600000t" end="8297600000t" region="region.after" style="defaultStyle" xml:id="subtitle157">Ah !</p>
+<p begin="8430400000t" end="8458000000t" region="region.after" style="defaultStyle" xml:id="subtitle158">Le projet de la Mairie l'emporte !</p>
+<p begin="8495200000t" end="8519600000t" region="region.after" style="defaultStyle" xml:id="subtitle159">Vous l'aurez voulu :<br/>un casino à Marseille !</p>
+<p begin="8883600000t" end="8900000000t" region="region.after" style="defaultStyle" xml:id="subtitle160">On a gagné la première manche, Robert.</p>
+<p begin="8900800000t" end="8930400000t" region="region.after" style="defaultStyle" xml:id="subtitle161">Maintenant, il faut que le port nous vende<br/>l'emplacement pour le casino.</p>
+<p begin="8931200000t" end="8945600000t" region="region.after" style="defaultStyle" xml:id="subtitle162">- Sinon, c'est foutu.<br/>- Il vendra.</p>
+<p begin="8946400000t" end="8975200000t" region="region.after" style="defaultStyle" xml:id="subtitle163">J'espère ! J'ai quatre personnes<br/>qui pourraient voter comme moi !</p>
+<p begin="8976000000t" end="8992400000t" region="region.after" style="defaultStyle" xml:id="subtitle164">- Très bien.<br/>- Au revoir.</p>
+<p begin="8993200000t" end="9007200000t" region="region.after" style="defaultStyle" xml:id="subtitle165">- Je vous raccompagne ?<br/>- Oui.</p>
+<p begin="9021600000t" end="9031600000t" region="region.after" style="defaultStyle" xml:id="subtitle166">[Éric] S'il te plaît.</p>
+<p begin="9032400000t" end="9071200000t" region="region.after" style="defaultStyle" xml:id="subtitle167">[Julia] Arrête, je suis pas venue pour ça.<br/>Faut vraiment que j'écrive mon article.</p>
+<p begin="9072000000t" end="9100400000t" region="region.after" style="defaultStyle" xml:id="subtitle168">[Éric] Mais oui, je les connais.<br/>Je vais te les montrer, les gars.</p>
+<p begin="9101200000t" end="9123200000t" region="region.after" style="defaultStyle" xml:id="subtitle169">[Julia] Tu crois<br/>qu'ils ont des vidéos de la descente ?</p>
+<p begin="9124000000t" end="9140800000t" region="region.after" style="defaultStyle" xml:id="subtitle170">Ce serait vraiment génial pour le site.</p>
+<p begin="9141600000t" end="9164400000t" region="region.after" style="defaultStyle" xml:id="subtitle171">[Éric] Bien sûr,<br/>je te les montrerai plus tard.</p>
+<p begin="9165200000t" end="9192800000t" region="region.after" style="defaultStyle" xml:id="subtitle172">Non, mais change pas de sujet comme ça.<br/>Arrête !</p>
+<p begin="9193600000t" end="9219200000t" region="region.after" style="defaultStyle" xml:id="subtitle173">- Allez, viens.<br/>- Arrête.</p>
+<p begin="9220000000t" end="9228000000t" region="region.after" style="defaultStyle" xml:id="subtitle174">Non !</p>
+<p begin="9228800000t" end="9254400000t" region="region.after" style="defaultStyle" xml:id="subtitle175">Arrête, Éric. J'ai pas envie.</p>
+<p begin="9255200000t" end="9284400000t" region="region.after" style="defaultStyle" xml:id="subtitle176">- Ça va pas ou quoi ? Arrête !<br/>- T'as pas envie ? Allez.</p>
+<p begin="9285200000t" end="9306400000t" region="region.after" style="defaultStyle" xml:id="subtitle177">Arrête ! Je te dis d'arrêter.</p>
+<p begin="9314800000t" end="9335600000t" region="region.after" style="defaultStyle" xml:id="subtitle178">J'ai pas envie, putain,<br/>mais ça va pas, non !</p>
+<p begin="9336400000t" end="9354400000t" region="region.after" style="defaultStyle" xml:id="subtitle179">Arrête !</p>
+<p begin="9590800000t" end="9660800000t" region="region.after" style="defaultStyle" xml:id="subtitle180">[musique rap]</p>
+<p begin="9969600000t" end="9996400000t" region="region.after" style="defaultStyle" xml:id="subtitle181">- [Barrès] Excusez-moi, j'ai été retenu.<br/>- [Taro] On a gagné, Lucas.</p>
+<p begin="9997200000t" end="10034000000t" region="region.after" style="defaultStyle" xml:id="subtitle182">Maintenant, il faut que le Conseil du port<br/>vote dans deux jours</p>
+<p begin="10034800000t" end="10056800000t" region="region.after" style="defaultStyle" xml:id="subtitle183">la vente de l'emplacement du casino.</p>
+<p begin="10057600000t" end="10067600000t" region="region.after" style="defaultStyle" xml:id="subtitle184">Tu vois ?</p>
+<p begin="10068400000t" end="10104800000t" region="region.after" style="defaultStyle" xml:id="subtitle185">À la place du J1<br/>il y aura la marina, le casino.</p>
+<p begin="10105600000t" end="10136400000t" region="region.after" style="defaultStyle" xml:id="subtitle186">On déplacera la SNCM à Toulon.</p>
+<p begin="10137200000t" end="10153600000t" region="region.after" style="defaultStyle" xml:id="subtitle187">Et on gardera juste le terminal.</p>
+<p begin="10154400000t" end="10181200000t" region="region.after" style="defaultStyle" xml:id="subtitle188">Il y aura<br/>des hôtels de luxe, des restaurants.</p>
+<p begin="10182000000t" end="10207200000t" region="region.after" style="defaultStyle" xml:id="subtitle189">Ça ouvrira Marseille<br/>à toutes les villes autour.</p>
+<p begin="10208000000t" end="10218800000t" region="region.after" style="defaultStyle" xml:id="subtitle190">Comme Marbella.</p>
+<p begin="10219600000t" end="10243199999t" region="region.after" style="defaultStyle" xml:id="subtitle191">Marbella,<br/>c'est 4 millions de visiteurs par an.</p>
+<p begin="10244000000t" end="10269600000t" region="region.after" style="defaultStyle" xml:id="subtitle192">- Je pense qu'on peut faire mieux.<br/>- Ce sera à toi de le faire.</p>
+<p begin="10293599999t" end="10311600000t" region="region.after" style="defaultStyle" xml:id="subtitle193">Merci, Robert.</p>
+<p begin="10441600000t" end="10460799999t" region="region.after" style="defaultStyle" xml:id="subtitle194">[Taro]<span style="defaultStyle_1"> Lucas Barrès.</span></p>
+<p begin="10489200000t" end="10540800000t" region="region.after" style="defaultStyle" xml:id="subtitle195"><span style="defaultStyle_1">Oui, en choisissant Lucas Barrès</span><br/><span style="defaultStyle_1">comme premier adjoint,</span></p>
+<p begin="10541600000t" end="10567600000t" region="region.after" style="defaultStyle" xml:id="subtitle196"><span style="defaultStyle_1">j'ai fait le pari de la jeunesse.</span></p>
+<p begin="10582400000t" end="10628800000t" region="region.after" style="defaultStyle" xml:id="subtitle197"><span style="defaultStyle_1">Je serais content si vous l'applaudissiez</span><br/><span style="defaultStyle_1">avec l'énergie dont vous êtes capables</span></p>
+<p begin="10629600000t" end="10652000000t" region="region.after" style="defaultStyle" xml:id="subtitle198"><span style="defaultStyle_1">quand il s'agit d'un match de l'OM.</span></p>
+<p begin="10828800000t" end="10849600000t" region="region.after" style="defaultStyle" xml:id="subtitle199">- Tu veux pas me donner ton numéro.<br/>- Non.</p>
+<p begin="10872000000t" end="10883600000t" region="region.after" style="defaultStyle" xml:id="subtitle200">OK.</p>
+<p begin="10898400000t" end="10930000000t" region="region.after" style="defaultStyle" xml:id="subtitle201">Et je peux savoir pourquoi tu voulais pas<br/>qu'il te filme avec le joint ?</p>
+<p begin="10930800000t" end="10948400000t" region="region.after" style="defaultStyle" xml:id="subtitle202">T'as cru que t'étais une star ou quoi ?</p>
+<p begin="10959600000t" end="10971600000t" region="region.after" style="defaultStyle" xml:id="subtitle203">[il siffle]</p>
+<p begin="11041600000t" end="11068800000t" region="region.after" style="defaultStyle" xml:id="subtitle204">- Viens, Julia.<br/>- Casse-toi !</p>
+<p begin="11069600000t" end="11105200000t" region="region.after" style="defaultStyle" xml:id="subtitle205">- Tu connais Éric ?<br/>- Ouais, et toi ? C'est ton pote ?</p>
+<p begin="11106000000t" end="11119600000t" region="region.after" style="defaultStyle" xml:id="subtitle206">Ouais, je le connais bien.</p>
+<p begin="11305600000t" end="11332800000t" region="region.after" style="defaultStyle" xml:id="subtitle207">- Viens, j'ai déconné, je le referai pas.<br/>- Tu vas te faire foutre !</p>
+<p begin="11349200000t" end="11366400000t" region="region.after" style="defaultStyle" xml:id="subtitle208">Je croyais qu'on était toujours ensemble.</p>
+<p begin="11367200000t" end="11396000000t" region="region.after" style="defaultStyle" xml:id="subtitle209">Je suis partie cinq ans à Montréal.<br/>On a jamais été ensemble.</p>
+<p begin="11416800000t" end="11435600000t" region="region.after" style="defaultStyle" xml:id="subtitle210">Moi, je t'ai attendue.</p>
+<p begin="11456000000t" end="11467600000t" region="region.after" style="defaultStyle" xml:id="subtitle211">Excuse-moi.</p>
+<p begin="11505200000t" end="11526000000t" region="region.after" style="defaultStyle" xml:id="subtitle212">Tu m'as jamais aimé ?</p>
+<p begin="11540400000t" end="11554800000t" region="region.after" style="defaultStyle" xml:id="subtitle213">Si.</p>
+<p begin="11555600000t" end="11583200000t" region="region.after" style="defaultStyle" xml:id="subtitle214">Je t'aime comme mon frère<br/>depuis qu'on est petits,</p>
+<p begin="11584000000t" end="11596800000t" region="region.after" style="defaultStyle" xml:id="subtitle215">ça a toujours été comme ça.</p>
+<p begin="11632400000t" end="11649600000t" region="region.after" style="defaultStyle" xml:id="subtitle216">Pourquoi on a couché ensemble, alors ?</p>
+<p begin="11682000000t" end="11695200000t" region="region.after" style="defaultStyle" xml:id="subtitle217">Tu me raccompagnes ?</p>
+<p begin="11743200000t" end="11768800000t" region="region.after" style="defaultStyle" xml:id="subtitle218">Notre aîné, il a 14 ans.</p>
+<p begin="11769600000t" end="11802000000t" region="region.after" style="defaultStyle" xml:id="subtitle219">Ses copains gagnent 100 euros par jour<br/>à faire du scooter dans la cité,</p>
+<p begin="11802800000t" end="11826400000t" region="region.after" style="defaultStyle" xml:id="subtitle220">pour prévenir au cas où il y aurait<br/>une descente de police.</p>
+<p begin="11827200000t" end="11860400000t" region="region.after" style="defaultStyle" xml:id="subtitle221">Vous pensez que ça va lui donner envie<br/>de travailler à la SNCM ou à Fos ?</p>
+<p begin="11866800000t" end="11886000000t" region="region.after" style="defaultStyle" xml:id="subtitle222">Je connais les conditions de vie là-bas.</p>
+<p begin="11886800000t" end="11912800000t" region="region.after" style="defaultStyle" xml:id="subtitle223">Si j'avais les moyens,<br/>je reconstruirais tout.</p>
+<p begin="11913600000t" end="11925600000t" region="region.after" style="defaultStyle" xml:id="subtitle224">Mais c'est pas le cas.</p>
+<p begin="11926400000t" end="11958400000t" region="region.after" style="defaultStyle" xml:id="subtitle225">Je peux simplement pousser les dossiers<br/>de ceux qui veulent partir.</p>
+<p begin="11959200000t" end="11996000000t" region="region.after" style="defaultStyle" xml:id="subtitle226">- Vous vous êtes occupé du nôtre ?<br/>- Bien sûr. Toujours pas de nouvelles.</p>
+<p begin="11996800000t" end="12026800000t" region="region.after" style="defaultStyle" xml:id="subtitle227">Le mieux, c'est que vous reveniez me voir<br/>après les élections.</p>
+<p begin="12027600000t" end="12050800000t" region="region.after" style="defaultStyle" xml:id="subtitle228">J'aurai plus de moyens<br/>pour vous attribuer un logement.</p>
+<p begin="12051600000t" end="12070800000t" region="region.after" style="defaultStyle" xml:id="subtitle229">Et si vous n'êtes pas élu ?</p>
+<p begin="12081200000t" end="12103600000t" region="region.after" style="defaultStyle" xml:id="subtitle230">Écoutez, on fera tout ce qu'il faut pour.</p>
+<p begin="12104400000t" end="12118400000t" region="region.after" style="defaultStyle" xml:id="subtitle231">Dites-le à vos amis.</p>
+<p begin="12119200000t" end="12144800000t" region="region.after" style="defaultStyle" xml:id="subtitle232">S'ils ont besoin de quelque chose,<br/>qu'ils viennent me voir.</p>
+<p begin="12145600000t" end="12158000000t" region="region.after" style="defaultStyle" xml:id="subtitle233">Allez, courage.</p>
+<p begin="12174400000t" end="12188400000t" region="region.after" style="defaultStyle" xml:id="subtitle234">Et puis, gagné ou perdu,</p>
+<p begin="12194400000t" end="12210000000t" region="region.after" style="defaultStyle" xml:id="subtitle235">je vous promets que je vous aiderai.</p>
+<p begin="12210800000t" end="12219600000t" region="region.after" style="defaultStyle" xml:id="subtitle236">Merci beaucoup.</p>
+<p begin="12220400000t" end="12240800000t" region="region.after" style="defaultStyle" xml:id="subtitle237">- Au revoir, monsieur.<br/>- Au revoir, M. Rodriguez.</p>
+<p begin="12256400000t" end="12266400000t" region="region.after" style="defaultStyle" xml:id="subtitle238">Courage.</p>
+<p begin="12384800000t" end="12394800000t" region="region.after" style="defaultStyle" xml:id="subtitle239">Barbara ?</p>
+<p begin="12417600000t" end="12436800000t" region="region.after" style="defaultStyle" xml:id="subtitle240">Vous allez être en retard<br/>au Conseil régional.</p>
+<p begin="12437600000t" end="12455200000t" region="region.after" style="defaultStyle" xml:id="subtitle241">- J'avais oublié !<br/>- La voiture est en bas.</p>
+<p begin="12456000000t" end="12477200000t" region="region.after" style="defaultStyle" xml:id="subtitle242">Je voudrais<br/>qu'on voit le dépôt des listes.</p>
+<p begin="12478000000t" end="12508400000t" region="region.after" style="defaultStyle" xml:id="subtitle243">La famille qui vient de partir,<br/>les Rodriguez, ce sont des gens bien.</p>
+<p begin="12509200000t" end="12519600000t" region="region.after" style="defaultStyle" xml:id="subtitle244">Ils sont dans la merde.</p>
+<p begin="12520400000t" end="12547200000t" region="region.after" style="defaultStyle" xml:id="subtitle245">J'aimerais qu'on fasse quelque chose<br/>pour pousser leur dossier.</p>
+<p begin="12548000000t" end="12562000000t" region="region.after" style="defaultStyle" xml:id="subtitle246">- Ils habitent Félix Pyat ?<br/>- Oui.</p>
+<p begin="12562800000t" end="12590800000t" region="region.after" style="defaultStyle" xml:id="subtitle247">J'en ai déjà parlé<br/>à la commission de relogement, mais...</p>
+<p begin="12591600000t" end="12605600000t" region="region.after" style="defaultStyle" xml:id="subtitle248">Voyez ce que vous pouvez faire.</p>
+<p begin="12622800000t" end="12648800000t" region="region.after" style="defaultStyle" xml:id="subtitle249">Dites-moi, les baskets, le chemisier...<br/>Je suis pas sûr.</p>
+<p begin="12656400000t" end="12666400000t" region="region.after" style="defaultStyle" xml:id="subtitle250">Ah bon ?</p>
+<p begin="12667200000t" end="12690800000t" region="region.after" style="defaultStyle" xml:id="subtitle251">Enfin, vous êtes toujours jolie, c'est...</p>
+<p begin="12697200000t" end="12711200000t" region="region.after" style="defaultStyle" xml:id="subtitle252">Bon, allez.</p>
+<p begin="12818800000t" end="12832400000t" region="region.after" style="defaultStyle" xml:id="subtitle253">[quelqu'un siffle]</p>
+<p begin="12902400000t" end="12918400000t" region="region.after" style="defaultStyle" xml:id="subtitle254">C'est la photo de la juge, Ariane Marek.</p>
+<p begin="12919200000t" end="12952000000t" region="region.after" style="defaultStyle" xml:id="subtitle255">Je veux connaître ses habitudes<br/>et savoir où elle habite.</p>
+<p begin="12952800000t" end="12962800000t" region="region.after" style="defaultStyle" xml:id="subtitle256">OK.</p>
+<p begin="13182400000t" end="13252400000t" region="region.after" style="defaultStyle" xml:id="subtitle257">[gémissements]</p>
+<p begin="13469200000t" end="13491600000t" region="region.after" style="defaultStyle" xml:id="subtitle258">Julia, qu'est-ce que tu fous là ?<br/>Tu devais pas rentrer !</p>
+<p begin="13507600000t" end="13531200000t" region="region.after" style="defaultStyle" xml:id="subtitle259">- Je me suis embrouillée avec Éric.<br/>- Ah ouais ?</p>
+<p begin="13532000000t" end="13542000000t" region="region.after" style="defaultStyle" xml:id="subtitle260">Ouais.</p>
+<p begin="13542800000t" end="13564400000t" region="region.after" style="defaultStyle" xml:id="subtitle261">Et tu vas en pécho<br/>comme ça longtemps ici ?</p>
+<p begin="13565200000t" end="13575200000t" region="region.after" style="defaultStyle" xml:id="subtitle262">Pourquoi ?</p>
+<p begin="13576000000t" end="13601600000t" region="region.after" style="defaultStyle" xml:id="subtitle263">Y a deux jours, c'était un mec<br/>avec une espèce de tête de gland,</p>
+<p begin="13602400000t" end="13614800000t" region="region.after" style="defaultStyle" xml:id="subtitle264">maintenant, c'est une pouf.</p>
+<p begin="13642000000t" end="13666400000t" region="region.after" style="defaultStyle" xml:id="subtitle265">- Où tu veux que j'aille ?<br/>- Mais je sais pas, moi.</p>
+<p begin="13667200000t" end="13681200000t" region="region.after" style="defaultStyle" xml:id="subtitle266">Tu vas chez ta mère...</p>
+<p begin="13694800000t" end="13718800000t" region="region.after" style="defaultStyle" xml:id="subtitle267">- Barbara ?<br/>- J'arrive.</p>
+<p begin="13874400000t" end="13884800000t" region="region.after" style="defaultStyle" xml:id="subtitle268">[bip]</p>
+<p begin="14251600000t" end="14273200000t" region="region.after" style="defaultStyle" xml:id="subtitle269">- Salut, papa.<br/>- Salut.</p>
+<p begin="14291200000t" end="14312800000t" region="region.after" style="defaultStyle" xml:id="subtitle270">- Barbara est avec quelqu'un.<br/>- Tant mieux.</p>
+<p begin="14313600000t" end="14332000000t" region="region.after" style="defaultStyle" xml:id="subtitle271">J'aime bien<br/>quand ta copine baise beaucoup.</p>
+<p begin="14332800000t" end="14346000000t" region="region.after" style="defaultStyle" xml:id="subtitle272">Ah bon, pourquoi ?</p>
+<p begin="14346800000t" end="14371600000t" region="region.after" style="defaultStyle" xml:id="subtitle273">Parce que plus elle baise,<br/>plus tu viens ici.</p>
+<p begin="14385600000t" end="14398000000t" region="region.after" style="defaultStyle" xml:id="subtitle274">C'est gentil, ça.</p>
+<p begin="14412400000t" end="14427200000t" region="region.after" style="defaultStyle" xml:id="subtitle275">Tu sens bon.</p>
+<p begin="14438400000t" end="14457200000t" region="region.after" style="defaultStyle" xml:id="subtitle276">- Qu'est-ce que tu fais ?<br/>- Rien.</p>
+<p begin="14467200000t" end="14479600000t" region="region.after" style="defaultStyle" xml:id="subtitle277">Des vieux bouquins.</p>
+<p begin="14494000000t" end="14511200000t" region="region.after" style="defaultStyle" xml:id="subtitle278">Alors...</p>
+<p begin="14512000000t" end="14551600000t" region="region.after" style="defaultStyle" xml:id="subtitle279">pourquoi, parce que...<br/>elle fait du bruit quand elle baise ?</p>
+<p begin="14614800000t" end="14637200000t" region="region.after" style="defaultStyle" xml:id="subtitle280">- Il y a ce qu'on avait dit ?<br/>- T'inquiète, y a plus même.</p>
+<p begin="14638000000t" end="14657200000t" region="region.after" style="defaultStyle" xml:id="subtitle281">- Parfait.<br/>- Je t'ai mis du rab.</p>
+<p begin="14658000000t" end="14668000000t" region="region.after" style="defaultStyle" xml:id="subtitle282">Allez !</p>
+<p begin="14690800000t" end="14760800000t" region="region.after" style="defaultStyle" xml:id="subtitle283">[violoncelle]</p>
+<p begin="14987200000t" end="14998400000t" region="region.after" style="defaultStyle" xml:id="subtitle284">C'est bien.</p>
+<p begin="14999200000t" end="15018400000t" region="region.after" style="defaultStyle" xml:id="subtitle285">Je sais pas si je serai prête pour samedi.</p>
+<p begin="15019200000t" end="15040000000t" region="region.after" style="defaultStyle" xml:id="subtitle286">Mais si, tu seras prête, maman !</p>
+<p begin="15040800000t" end="15073200000t" region="region.after" style="defaultStyle" xml:id="subtitle287">Bach, c'est un peu plus difficile<br/>que Sam Smith, mais ça va aller.</p>
+<p begin="15074000000t" end="15100000000t" region="region.after" style="defaultStyle" xml:id="subtitle288">- Tu préférerais que je joue Sam Smith ?<br/>- Ouais, vas-y.</p>
+<p begin="15100800000t" end="15108800000t" region="region.after" style="defaultStyle" xml:id="subtitle289">Euh...</p>
+<p begin="15313600000t" end="15341200000t" region="region.after" style="defaultStyle" xml:id="subtitle290">- C'est formidable.<br/>- Non, c'est nul, papa, arrête !</p>
+<p begin="15342000000t" end="15360400000t" region="region.after" style="defaultStyle" xml:id="subtitle291">- T'as écouté ?<br/>- Oui, j'ai écouté.</p>
+<p begin="15361200000t" end="15374000000t" region="region.after" style="defaultStyle" xml:id="subtitle292">C'est simple, mais c'est beau.</p>
+<p begin="15422400000t" end="15474000000t" region="region.after" style="defaultStyle" xml:id="subtitle293">[Taro]<span style="defaultStyle_1"> Oui, en choisissant Lucas Barrès</span><br/><span style="defaultStyle_1">comme premier adjoint,</span></p>
+<p begin="15474800000t" end="15506400000t" region="region.after" style="defaultStyle" xml:id="subtitle294"><span style="defaultStyle_1">j'ai fait le pari de la jeunesse.</span></p>
+<p begin="15656400000t" end="15671200000t" region="region.after" style="defaultStyle" xml:id="subtitle295">[Taro]<span style="defaultStyle_1"> Lucas Barrès.</span></p>
+<p begin="16019600000t" end="16050400000t" region="region.after" style="defaultStyle" xml:id="subtitle296">[Costabone]<span style="defaultStyle_1"> Il faut que le port vende</span><br/><span style="defaultStyle_1">l'emplacement, sinon, c'est foutu.</span></p>
+<p begin="16061200000t" end="16072800000t" region="region.after" style="defaultStyle" xml:id="subtitle297">[Taro]<span style="defaultStyle_1"> Il vendra.</span></p>
+<p begin="16298800000t" end="16320800000t" region="region.after" style="defaultStyle" xml:id="subtitle298">Alors, je t'ai retrouvé, petite salope !</p>
+<p begin="16321600000t" end="16340800000t" region="region.after" style="defaultStyle" xml:id="subtitle299">Hein ? Tu prêtes pas ta caisse comme ça ?</p>
+<p begin="16417200000t" end="16439600000t" region="region.after" style="defaultStyle" xml:id="subtitle300">Qu'est-ce que tu crois<br/>qu'il va t'arriver ?</p>
+<p begin="16476800000t" end="16513200000t" region="region.after" style="defaultStyle" xml:id="subtitle301">Quand t'habites chez nous, à la cité,<br/>tu signes un contrat, t'entends ?</p>
+<p begin="16530800000t" end="16559600000t" region="region.after" style="defaultStyle" xml:id="subtitle302">- Tu comprends, ça, petit enculé ?<br/>- Fais pas ça, putain !</p>
+<p begin="16560400000t" end="16583600000t" region="region.after" style="defaultStyle" xml:id="subtitle303">Quand je te demande ta caisse,<br/>tu me la donnes, tu dis oui.</p>
+<p begin="16584400000t" end="16612000000t" region="region.after" style="defaultStyle" xml:id="subtitle304">Je te dis oui, putain,<br/>mais fais pas ça, je te dis !</p>
+<p begin="16612800000t" end="16640800000t" region="region.after" style="defaultStyle" xml:id="subtitle305">Tu dis oui, maintenant ?<br/>Maintenant, il dit oui.</p>
+<p begin="16654800000t" end="16673200000t" region="region.after" style="defaultStyle" xml:id="subtitle306">C'est bien.<br/>Mais c'est trop tard.</p>
+<p begin="16698400000t" end="16719200000t" region="region.after" style="defaultStyle" xml:id="subtitle307">Je sens<br/>que je vais te cramer ta gueule, enculé.</p>
+<p begin="17266000000t" end="17282000000t" region="region.after" style="defaultStyle" xml:id="subtitle308">[Taro]<span style="defaultStyle_1"> T'as été parfait</span></p>
+<p begin="17282800000t" end="17307200000t" region="region.after" style="defaultStyle" xml:id="subtitle309"><span style="defaultStyle_1">T'as l'âge que j'avais</span><br/><span style="defaultStyle_1">quand j'ai pris la Mairie.</span></p>
+<p begin="17308000000t" end="17329200000t" region="region.after" style="defaultStyle" xml:id="subtitle310"><span style="defaultStyle_1">J'y suis arrivé, tu y arriveras aussi.</span></p>
+<p begin="17374000000t" end="17402400000t" region="region.after" style="defaultStyle" xml:id="subtitle311">[Vanessa] Parfois, je me demande<br/>si tu es un loup ou un agneau.</p>
+<p begin="17403200000t" end="17421600000t" region="region.after" style="defaultStyle" xml:id="subtitle312">J'aime bien<br/>que tu te poses cette question.</p>
+<p begin="17435200000t" end="17453600000t" region="region.after" style="defaultStyle" xml:id="subtitle313">Tu connais la réponse ?</p>
+<p begin="17454400000t" end="17480400000t" region="region.after" style="defaultStyle" xml:id="subtitle314">Je crois que j'ai cette capacité<br/>à aller au devant des autres</p>
+<p begin="17481200000t" end="17496400000t" region="region.after" style="defaultStyle" xml:id="subtitle315">en me montrant tel qu'on m'espère.</p>
+<p begin="17514400000t" end="17539200000t" region="region.after" style="defaultStyle" xml:id="subtitle316">Tu crois que ça ne fait pas de toi<br/>un homme de conviction ?</p>
+<p begin="17549600000t" end="17570800000t" region="region.after" style="defaultStyle" xml:id="subtitle317">Même si on partage la même hypocrisie,</p>
+<p begin="17571600000t" end="17588800000t" region="region.after" style="defaultStyle" xml:id="subtitle318">je suis sincère dans mes convictions.</p>
+<p begin="17613600000t" end="17639600000t" region="region.after" style="defaultStyle" xml:id="subtitle319">Dis-moi, qui était représentant<br/>au Conseil général avant toi ?</p>
+<p begin="17652400000t" end="17688400000t" region="region.after" style="defaultStyle" xml:id="subtitle320">Ton mari peut-être ?<br/>Il t'a pas fait la courte échelle ?</p>
+<p begin="17689200000t" end="17709600000t" region="region.after" style="defaultStyle" xml:id="subtitle321">Ne te fais pas plus vertueux<br/>que tu ne l'es.</p>
+<p begin="17710400000t" end="17727200000t" region="region.after" style="defaultStyle" xml:id="subtitle322">Dis-moi plutôt ce que tu attends de moi.</p>
+<p begin="17728000000t" end="17742000000t" region="region.after" style="defaultStyle" xml:id="subtitle323">Tu sais très bien.</p>
+<p begin="17742800000t" end="17776800000t" region="region.after" style="defaultStyle" xml:id="subtitle324">J'ai besoin de la voix de ton représentant<br/>au conseil pour le casino.</p>
+<p begin="17800000000t" end="17819200000t" region="region.after" style="defaultStyle" xml:id="subtitle325">Ta position est si fragile que ça ?</p>
+<p begin="17820000000t" end="17850000000t" region="region.after" style="defaultStyle" xml:id="subtitle326">Tu te trompes.<br/>Ce que je fais, je le fais pour Marseille.</p>
+<p begin="18035600000t" end="18057600000t" region="region.after" style="defaultStyle" xml:id="subtitle327">[Julia] À Montréal,<br/>y a pas de cités aussi pourries.</p>
+<p begin="18058400000t" end="18071600000t" region="region.after" style="defaultStyle" xml:id="subtitle328">En cinq ans, j'ai jamais vu ça.</p>
+<p begin="18072400000t" end="18103600000t" region="region.after" style="defaultStyle" xml:id="subtitle329">La BAC a évacué des jeunes hier,<br/>à Félix Pyat.</p>
+<p begin="18114000000t" end="18128800000t" region="region.after" style="defaultStyle" xml:id="subtitle330">C'est ce que je t'avais dit.</p>
+<p begin="18129600000t" end="18159200000t" region="region.after" style="defaultStyle" xml:id="subtitle331">C'est des jeunes qui fumaient,<br/>y a pas de quoi en faire un drame.</p>
+<p begin="18160000000t" end="18192800000t" region="region.after" style="defaultStyle" xml:id="subtitle332">Ouais, mais j'avais pas compris<br/>que c'était là-bas.</p>
+<p begin="18193600000t" end="18218800000t" region="region.after" style="defaultStyle" xml:id="subtitle333">[Julia] Je te dis jamais<br/>quand je suis sur des trucs comme ça.</p>
+<p begin="18219600000t" end="18235600000t" region="region.after" style="defaultStyle" xml:id="subtitle334">Ça pourrait nuire à M. le Maire.</p>
+<p begin="18236400000t" end="18258800000t" region="region.after" style="defaultStyle" xml:id="subtitle335">La fille du maire<br/>ne peut pas aller n'importe où.</p>
+<p begin="18259600000t" end="18275600000t" region="region.after" style="defaultStyle" xml:id="subtitle336">Ouais, ouais...</p>
+<p begin="18276400000t" end="18291600000t" region="region.after" style="defaultStyle" xml:id="subtitle337">La grandeur de Marseille...</p>
+<p begin="18292400000t" end="18321200000t" region="region.after" style="defaultStyle" xml:id="subtitle338">Ta grandeur à toi,<br/>ce serait pas d'aller presser ton orange ?</p>
+<p begin="18332800000t" end="18372000000t" region="region.after" style="defaultStyle" xml:id="subtitle339">La grandeur de Marseille,<br/>c'est que les gens ici détestent</p>
+<p begin="18372800000t" end="18402000000t" region="region.after" style="defaultStyle" xml:id="subtitle340">qu'on parle de leur ville<br/>comme d'une ville particulière.</p>
+<p begin="18413600000t" end="18444800000t" region="region.after" style="defaultStyle" xml:id="subtitle341">Mais si on en parlait<br/>comme d'une ville normale,</p>
+<p begin="18445600000t" end="18461200000t" region="region.after" style="defaultStyle" xml:id="subtitle342">sans l'OM, sans violence,</p>
+<p begin="18470400000t" end="18497600000t" region="region.after" style="defaultStyle" xml:id="subtitle343">sans la drogue... ils détesteraient.</p>
+<p begin="18498400000t" end="18506400000t" region="region.after" style="defaultStyle" xml:id="subtitle344">[sonnette]</p>
+<p begin="18507200000t" end="18526000000t" region="region.after" style="defaultStyle" xml:id="subtitle345">C'est Lucas.</p>
+<p begin="18570400000t" end="18590400000t" region="region.after" style="defaultStyle" xml:id="subtitle346">- Salut.<br/>- Ça va ?</p>
+<p begin="18613200000t" end="18630400000t" region="region.after" style="defaultStyle" xml:id="subtitle347">Ça va bien, les cheveux lâchés comme ça.</p>
+<p begin="18631200000t" end="18645600000t" region="region.after" style="defaultStyle" xml:id="subtitle348">- Merci.<br/>- J'aime beaucoup.</p>
+<p begin="18750000000t" end="18766000000t" region="region.after" style="defaultStyle" xml:id="subtitle349">- Bonjour, Robert, Rachel.<br/>- Bonjour.</p>
+<p begin="18766800000t" end="18776800000t" region="region.after" style="defaultStyle" xml:id="subtitle350">- Ça va ?<br/>- Oui, et toi ?</p>
+<p begin="18777600000t" end="18791200000t" region="region.after" style="defaultStyle" xml:id="subtitle351">Tu veux que je te fasse un café ?</p>
+<p begin="18792000000t" end="18818000000t" region="region.after" style="defaultStyle" xml:id="subtitle352">Alors, un petit café.<br/>Oui, serré avec un sucre.</p>
+<p begin="18818800000t" end="18850800000t" region="region.after" style="defaultStyle" xml:id="subtitle353">Ta mère a pas le droit de me faire un jus<br/>d'orange, mais lui, tu lui fais son café ?</p>
+<p begin="18870000000t" end="18883600000t" region="region.after" style="defaultStyle" xml:id="subtitle354">- C'est le grand jour.<br/>- Oui.</p>
+<p begin="18890400000t" end="18913600000t" region="region.after" style="defaultStyle" xml:id="subtitle355">- Tu joues quoi ?<br/>- Une suite de Bach.</p>
+<p begin="18921200000t" end="18942800000t" region="region.after" style="defaultStyle" xml:id="subtitle356">Hier, elle nous a fait un truc...<br/>C'était quoi, déjà ?</p>
+<p begin="18943600000t" end="18951600000t" region="region.after" style="defaultStyle" xml:id="subtitle357">Sam Smith, papa !</p>
+<p begin="18957200000t" end="18983600000t" region="region.after" style="defaultStyle" xml:id="subtitle358">Tu veux pas t'intéresser<br/>à autre chose qu'à ta mairie ?</p>
+<p begin="18984400000t" end="18994400000t" region="region.after" style="defaultStyle" xml:id="subtitle359">Il peut pas !</p>
+<p begin="18995200000t" end="19025200000t" region="region.after" style="defaultStyle" xml:id="subtitle360">En tout cas, j'aime beaucoup le...<br/>Le Smith, là...</p>
+<p begin="19026000000t" end="19038400000t" region="region.after" style="defaultStyle" xml:id="subtitle361">Je vais m'habiller.</p>
+<p begin="19039200000t" end="19058000000t" region="region.after" style="defaultStyle" xml:id="subtitle362">Vous voyez, je sais pas le dire !</p>
+<p begin="19080800000t" end="19099600000t" region="region.after" style="defaultStyle" xml:id="subtitle363">J'ai regardé sur Internet. Y a rien.</p>
+<p begin="19100400000t" end="19124000000t" region="region.after" style="defaultStyle" xml:id="subtitle364">Un petit truc dans la presse,<br/>mais ça craint pas.</p>
+<p begin="19131200000t" end="19142800000t" region="region.after" style="defaultStyle" xml:id="subtitle365">On est bien, là.</p>
+<p begin="19160800000t" end="19174800000t" region="region.after" style="defaultStyle" xml:id="subtitle366">Y a plus de montres, mec.</p>
+<p begin="19181600000t" end="19193600000t" region="region.after" style="defaultStyle" xml:id="subtitle367">Quoi, plus de montres ?</p>
+<p begin="19200000000t" end="19224400000t" region="region.after" style="defaultStyle" xml:id="subtitle368">- Tu les as planquées ?<br/>- Elles ont brûlé avec ma caisse.</p>
+<p begin="19231600000t" end="19247200000t" region="region.after" style="defaultStyle" xml:id="subtitle369">Vas-y, parle sérieux, Éric.</p>
+<p begin="19248000000t" end="19270800000t" region="region.after" style="defaultStyle" xml:id="subtitle370">C'est Farid.<br/>Il m'attendait quand on est rentrés.</p>
+<p begin="19271600000t" end="19298800000t" region="region.after" style="defaultStyle" xml:id="subtitle371">Il était avec ses deux Blacks,<br/>j'ai rien pu faire.</p>
+<p begin="19317600000t" end="19335200000t" region="region.after" style="defaultStyle" xml:id="subtitle372">Qu'est-ce que t'as foutu, Éric ?</p>
+<p begin="19341600000t" end="19362800000t" region="region.after" style="defaultStyle" xml:id="subtitle373">- T'as quoi dans le cerveau ?<br/>- Je suis con, ouais !</p>
+<p begin="19363600000t" end="19388800000t" region="region.after" style="defaultStyle" xml:id="subtitle374">- Tout le monde le dit, dis-le !<br/>- Je me fous de ce qu'ils disent.</p>
+<p begin="19389600000t" end="19406800000t" region="region.after" style="defaultStyle" xml:id="subtitle375">Là, tu nous as bien mis dans la merde.</p>
+<p begin="19420000000t" end="19432400000t" region="region.after" style="defaultStyle" xml:id="subtitle376">Putain !</p>
+<p begin="19496000000t" end="19507600000t" region="region.after" style="defaultStyle" xml:id="subtitle377">M. le Maire ?</p>
+<p begin="19508400000t" end="19534000000t" region="region.after" style="defaultStyle" xml:id="subtitle378">Vous ne répondez pas sur votre portable.<br/>Votre femme.</p>
+<p begin="19534800000t" end="19556800000t" region="region.after" style="defaultStyle" xml:id="subtitle379">Je ne sais même pas où il est,<br/>mon portable.</p>
+<p begin="19557600000t" end="19580400000t" region="region.after" style="defaultStyle" xml:id="subtitle380">Allô ?</p>
+<p begin="19596000000t" end="19610400000t" region="region.after" style="defaultStyle" xml:id="subtitle381">Elle a raccroché.</p>
+<p begin="19619600000t" end="19660400000t" region="region.after" style="defaultStyle" xml:id="subtitle382">- Je ne vous avais pas offert un étui ?<br/>- Ma femme n'a jamais aimé les étuis.</p>
+<p begin="19671600000t" end="19689200000t" region="region.after" style="defaultStyle" xml:id="subtitle383">Elle dit que ça enlève tout le plaisir.</p>
+<p begin="19690000000t" end="19712800000t" region="region.after" style="defaultStyle" xml:id="subtitle384">Il est là.<br/>Qu'est-ce que j'ai demain ?</p>
+<p begin="19713600000t" end="19740000000t" region="region.after" style="defaultStyle" xml:id="subtitle385">Demain...<br/>Marché Sébastopol avec M. Barrès,</p>
+<p begin="19740800000t" end="19772400000t" region="region.after" style="defaultStyle" xml:id="subtitle386">visite du Mucem avec les financiers,<br/>déjeuner à la préfecture...</p>
+<p begin="19773200000t" end="19795600000t" region="region.after" style="defaultStyle" xml:id="subtitle387">Bon, c'est bon.<br/>Maintenant, j'ai quoi ?</p>
+<p begin="19796400000t" end="19819600000t" region="region.after" style="defaultStyle" xml:id="subtitle388">Le promoteur du casino vous attend.</p>
+<p begin="19820400000t" end="19830400000t" region="region.after" style="defaultStyle" xml:id="subtitle389">Il est où ?</p>
+<p begin="19831200000t" end="19851200000t" region="region.after" style="defaultStyle" xml:id="subtitle390">Dans l'auditorium avec les investisseurs.</p>
+<p begin="19864400000t" end="19898800000t" region="region.after" style="defaultStyle" xml:id="subtitle391">[promoteur] Voici la jetée 1<br/>qui va servir à la construction du casino.</p>
+<p begin="19899600000t" end="19930400000t" region="region.after" style="defaultStyle" xml:id="subtitle392">La vente du site va être votée demain<br/>au Conseil du port.</p>
+<p begin="19931200000t" end="19971200000t" region="region.after" style="defaultStyle" xml:id="subtitle393">Vous voyez la répartition de l'aménagement<br/>qui comprend plusieurs points clés.</p>
+<p begin="19972000000t" end="19998400000t" region="region.after" style="defaultStyle" xml:id="subtitle394">Et qui crée une réelle extension.</p>
+<p begin="19999200000t" end="20021200000t" region="region.after" style="defaultStyle" xml:id="subtitle395">Merveilleuse animation, magnifique projet.</p>
+<p begin="20022000000t" end="20049600000t" region="region.after" style="defaultStyle" xml:id="subtitle396">Le port, la marina, le casino, et...</p>
+<p begin="20050400000t" end="20065600000t" region="region.after" style="defaultStyle" xml:id="subtitle397">Excusez mon retard. Continuez.</p>
+<p begin="20066400000t" end="20083200000t" region="region.after" style="defaultStyle" xml:id="subtitle398">J'expliquais à ces messieurs</p>
+<p begin="20084000000t" end="20108000000t" region="region.after" style="defaultStyle" xml:id="subtitle399">que votre grand projet<br/>allait changer la ville.</p>
+<p begin="20108800000t" end="20146000000t" region="region.after" style="defaultStyle" xml:id="subtitle400">La Mairie défend ce réaménagement depuis<br/>des années. On doit faire comme Shanghai.</p>
+<p begin="20146800000t" end="20171600000t" region="region.after" style="defaultStyle" xml:id="subtitle401">Shanghai est devenu<br/>le premier port du monde</p>
+<p begin="20172400000t" end="20190800000t" region="region.after" style="defaultStyle" xml:id="subtitle402">en développant des centres d'affaires</p>
+<p begin="20191600000t" end="20217600000t" region="region.after" style="defaultStyle" xml:id="subtitle403">qui ont fait venir<br/>des investisseurs du monde entier.</p>
+<p begin="20218400000t" end="20230000000t" region="region.after" style="defaultStyle" xml:id="subtitle404">C'est ça, notre boulot.</p>
+<p begin="20253200000t" end="20282000000t" region="region.after" style="defaultStyle" xml:id="subtitle405">M. Barrès, le Maire vous a désigné<br/>presque officiellement</p>
+<p begin="20282800000t" end="20300800000t" region="region.after" style="defaultStyle" xml:id="subtitle406">comme son successeur,<br/>vous vous connaissez</p>
+<p begin="20301600000t" end="20314400000t" region="region.after" style="defaultStyle" xml:id="subtitle407"><span style="defaultStyle_1">depuis combien d'années ?</span></p>
+<p begin="20315200000t" end="20336400000t" region="region.after" style="defaultStyle" xml:id="subtitle408"><span style="defaultStyle_1">Ça remonte</span><br/><span style="defaultStyle_1">à au moins une vingtaine d'années.</span></p>
+<p begin="20337200000t" end="20359600000t" region="region.after" style="defaultStyle" xml:id="subtitle409"><span style="defaultStyle_1">J'étais étudiant à Aix,</span><br/><span style="defaultStyle_1">lui, il était médecin.</span></p>
+<p begin="20360400000t" end="20392400000t" region="region.after" style="defaultStyle" xml:id="subtitle410"><span style="defaultStyle_1">J'étais tombé malade, et il avait accepté</span><br/><span style="defaultStyle_1">de me soigner gratuitement.</span></p>
+<p begin="20393200000t" end="20409200000t" region="region.after" style="defaultStyle" xml:id="subtitle411"><span style="defaultStyle_1">C'était déjà un grand homme.</span></p>
+<p begin="20410000000t" end="20434800000t" region="region.after" style="defaultStyle" xml:id="subtitle412"><span style="defaultStyle_1">- Il avait même payé mes médicaments.</span><br/>- C'est vrai ?</p>
+<p begin="20435600000t" end="20458400000t" region="region.after" style="defaultStyle" xml:id="subtitle413"><span style="defaultStyle_1">Je crois que notre complicité...</span></p>
+<p begin="20459200000t" end="20471200000t" region="region.after" style="defaultStyle" xml:id="subtitle414">Il écoute pas ce que je lui dis.</p>
+<p begin="20472000000t" end="20497600000t" region="region.after" style="defaultStyle" xml:id="subtitle415">Dans les quartiers populaires,<br/>il faut forcer l'accent.</p>
+<p begin="20498400000t" end="20511599999t" region="region.after" style="defaultStyle" xml:id="subtitle416">Ça fait peuple.</p>
+<p begin="20512399999t" end="20534400000t" region="region.after" style="defaultStyle" xml:id="subtitle417">Et le peuple adore<br/>qu'on parle comme lui.</p>
+<p begin="20535200000t" end="20569200000t" region="region.before" style="defaultStyle_2" xml:id="subtitle418"><span style="defaultStyle_3">Un homme, ce sont ses convictions.</span><br/><span style="defaultStyle_3">C'est ça qui mène le combat politique.</span></p>
+<p begin="20575600000t" end="20598800000t" region="region.before" style="defaultStyle_2" xml:id="subtitle419"><span style="defaultStyle_3">La complicité avec M. Taro vient aussi</span><br/><span style="defaultStyle_3">de votre enfance</span></p>
+<p begin="20599600000t" end="20613200000t" region="region.before" style="defaultStyle_2" xml:id="subtitle420"><span style="defaultStyle_3">parce que vous êtes orphelin.</span></p>
+<p begin="20614000000t" end="20638400000t" region="region.after" style="defaultStyle" xml:id="subtitle421"><span style="defaultStyle_1">Vous avez connu les foyers,</span><br/><span style="defaultStyle_1">les familles d'accueil...</span></p>
+<p begin="20639200000t" end="20661999999t" region="region.before" style="defaultStyle_2" xml:id="subtitle422"><span style="defaultStyle_3">Oui, mais mon histoire est derrière moi.</span></p>
+<p begin="20662800000t" end="20694400000t" region="region.before" style="defaultStyle_2" xml:id="subtitle423"><span style="defaultStyle_3">Je prends la vie comme elle est,</span><br/><span style="defaultStyle_3">même si chaque jour est un combat.</span></p>
+<p begin="20695200000t" end="20707199999t" region="region.after" style="defaultStyle" xml:id="subtitle424">Pas mal.</p>
+<p begin="20725200000t" end="20751999999t" region="region.after" style="defaultStyle" xml:id="subtitle425">Quand je le vois comme ça,<br/>je me dis que lui et Julia, ça pourrait...</p>
+<p begin="20752800000t" end="20770000000t" region="region.after" style="defaultStyle" xml:id="subtitle426">Tu parles pour toi.</p>
+<p begin="20770800000t" end="20780000000t" region="region.after" style="defaultStyle" xml:id="subtitle427">Pourquoi ?</p>
+<p begin="20780800000t" end="20801599999t" region="region.after" style="defaultStyle" xml:id="subtitle428">Lucas et toi, vous avez combien d'écart ?</p>
+<p begin="20802399999t" end="20814400000t" region="region.after" style="defaultStyle" xml:id="subtitle429">Trois ans ?</p>
+<p begin="20815200000t" end="20834000000t" region="region.after" style="defaultStyle" xml:id="subtitle430">Mais moi, j'aime les vieux, mon amour.</p>
+<p begin="20834800000t" end="20855600000t" region="region.after" style="defaultStyle" xml:id="subtitle431">T'as raison, on sait mieux y faire !</p>
+<p begin="20856399999t" end="20926399999t" region="region.after" style="defaultStyle" xml:id="subtitle432">[portable qui sonne]</p>
+<p begin="20944400000t" end="20955600000t" region="region.after" style="defaultStyle" xml:id="subtitle433">Ah, il est là.</p>
+<p begin="20974000000t" end="20992400000t" region="region.after" style="defaultStyle" xml:id="subtitle434">Trop tard. C'est de ta faute.</p>
+<p begin="20993200000t" end="21023600000t" region="region.after" style="defaultStyle" xml:id="subtitle435">Je peux pas le mettre dans ma poche<br/>intérieure gauche à cause du cœur,</p>
+<p begin="21024400000t" end="21044000000t" region="region.after" style="defaultStyle" xml:id="subtitle436">pas dans mon pantalon<br/>à cause des couilles.</p>
+<p begin="21044800000t" end="21065600000t" region="region.after" style="defaultStyle" xml:id="subtitle437">Si je le mets<br/>dans mes poches arrières, je le pète,</p>
+<p begin="21066400000t" end="21093200000t" region="region.after" style="defaultStyle" xml:id="subtitle438">et si je l'accroche à ma ceinture,<br/>tu dis que ça fait vieux flic.</p>
+<p begin="21094000000t" end="21108800000t" region="region.after" style="defaultStyle" xml:id="subtitle439">Et où tu veux que je le mette ?</p>
+<p begin="21124400000t" end="21134400000t" region="region.after" style="defaultStyle" xml:id="subtitle440">Merci, Gilbert.</p>
+<p begin="21260800000t" end="21283600000t" region="region.after" style="defaultStyle" xml:id="subtitle441">T'as le trac pour le concert de ce soir ?</p>
+<p begin="21292000000t" end="21328000000t" region="region.after" style="defaultStyle" xml:id="subtitle442">T'inquiète pas, tout va bien se passer.<br/>T'as toujours un peu peur avant.</p>
+<p begin="21625600000t" end="21646400000t" region="region.after" style="defaultStyle" xml:id="subtitle443">J'aurai les résultats dans quelques jours.</p>
+<p begin="21647200000t" end="21672800000t" region="region.after" style="defaultStyle" xml:id="subtitle444">Oui. Je pense qu'ils sont mauvais.</p>
+<p begin="21673600000t" end="21692000000t" region="region.after" style="defaultStyle" xml:id="subtitle445">Tu sais,<br/>t'as fait les mêmes études que moi.</p>
+<p begin="21692800000t" end="21702800000t" region="region.after" style="defaultStyle" xml:id="subtitle446">Oui.</p>
+<p begin="21710800000t" end="21738800000t" region="region.after" style="defaultStyle" xml:id="subtitle447">Je prescrirai ce qu'il faut<br/>quand la douleur sera trop forte.</p>
+<p begin="21753600000t" end="21772400000t" region="region.after" style="defaultStyle" xml:id="subtitle448">Fais une ordonnance.<br/>Je l'aurai sous la main.</p>
+<p begin="21773200000t" end="21793600000t" region="region.after" style="defaultStyle" xml:id="subtitle449">Et c'est toi<br/>qui va aller chez le pharmacien ?</p>
+<p begin="21794400000t" end="21810400000t" region="region.after" style="defaultStyle" xml:id="subtitle450">Non, j'enverrai quelqu'un.</p>
+<p begin="21829200000t" end="21841600000t" region="region.after" style="defaultStyle" xml:id="subtitle451">Et la photo ?</p>
+<p begin="21857600000t" end="21867600000t" region="region.after" style="defaultStyle" xml:id="subtitle452">Je l'ai balancée.</p>
+<p begin="21868400000t" end="21882000000t" region="region.after" style="defaultStyle" xml:id="subtitle453">Et si elle ressort ?</p>
+<p begin="21935200000t" end="21955600000t" region="region.after" style="defaultStyle" xml:id="subtitle454">Je ne sais pas comment tu fais pour tenir.</p>
+<p begin="22009600000t" end="22036400000t" region="region.after" style="defaultStyle" xml:id="subtitle455">J'ai repris. Un peu.</p>
+<p begin="22360800000t" end="22388800000t" region="region.after" style="defaultStyle" xml:id="subtitle456">- [Barrès] Elle avait l'air terrorisée ?<br/>- Elle l'est tout le temps !</p>
+<p begin="22389600000t" end="22412400000t" region="region.after" style="defaultStyle" xml:id="subtitle457">Moi, je l'ai trouvée très à l'aise.</p>
+<p begin="22413200000t" end="22432800000t" region="region.after" style="defaultStyle" xml:id="subtitle458">- Qu'est-ce que tu bois ?<br/>- Je veux du champagne.</p>
+<p begin="22433600000t" end="22449600000t" region="region.after" style="defaultStyle" xml:id="subtitle459">Tu détestes ça, toi, non ?</p>
+<p begin="22450400000t" end="22474800000t" region="region.after" style="defaultStyle" xml:id="subtitle460">T'as remarqué que j'avais plus 15 ans,<br/>ou c'est pas clair ?</p>
+<p begin="22475600000t" end="22500800000t" region="region.after" style="defaultStyle" xml:id="subtitle461">Maintenant que tu le dis,<br/>c'est vrai... je le découvre.</p>
+<p begin="22506800000t" end="22529200000t" region="region.after" style="defaultStyle" xml:id="subtitle462">- Tu es ravissante.<br/>- Y a que toi qui bois pas d'alcool.</p>
+<p begin="22530000000t" end="22547200000t" region="region.after" style="defaultStyle" xml:id="subtitle463">T'en as pas marre de faire comme mon père.</p>
+<p begin="22548000000t" end="22556000000t" region="region.after" style="defaultStyle" xml:id="subtitle464">Ah, les enfants !</p>
+<p begin="22556800000t" end="22572000000t" region="region.after" style="defaultStyle" xml:id="subtitle465">Ma chérie, tu était magnifique.</p>
+<p begin="22572800000t" end="22596800000t" region="region.after" style="defaultStyle" xml:id="subtitle466">Y a aucun raison d'avoir peur,<br/>c'est sublime.</p>
+<p begin="22597600000t" end="22623600000t" region="region.after" style="defaultStyle" xml:id="subtitle467">- Merci.<br/>- Oui, c'était mieux que Sam Smitt !</p>
+<p begin="22624400000t" end="22646400000t" region="region.after" style="defaultStyle" xml:id="subtitle468">J'ai fait une fausse note<br/>dans la gigue à la fin.</p>
+<p begin="22647200000t" end="22673200000t" region="region.after" style="defaultStyle" xml:id="subtitle469">Personne ne s'en est aperçu, ma chérie.</p>
+<p begin="22674000000t" end="22703200000t" region="region.after" style="defaultStyle" xml:id="subtitle470">- Personne s'en est aperçu, je te rassure.<br/>- Comme si ça me rassurait !</p>
+<p begin="22704000000t" end="22728800000t" region="region.after" style="defaultStyle" xml:id="subtitle471">[Taro] Lucas, viens, tu veux.<br/>Viens par ici.</p>
+<p begin="22767600000t" end="22788400000t" region="region.after" style="defaultStyle" xml:id="subtitle472">- C'était très bien.<br/>- Oh, écoute...</p>
+<p begin="22803200000t" end="22842000000t" region="region.after" style="defaultStyle" xml:id="subtitle473">Mme Marek, demain, c'est le vote<br/>de la vente du J1 pour le casino.</p>
+<p begin="22842800000t" end="22868400000t" region="region.after" style="defaultStyle" xml:id="subtitle474">Ariane, vous êtes très forte<br/>en dialectique.</p>
+<p begin="22869200000t" end="22892800000t" region="region.after" style="defaultStyle" xml:id="subtitle475">- Vous saurez convaincre.<br/>- Pas tout le monde.</p>
+<p begin="22898000000t" end="22921200000t" region="region.after" style="defaultStyle" xml:id="subtitle476">Je vous donnerai une liste,<br/>ne vous inquiétez pas.</p>
+<p begin="22922000000t" end="22937200000t" region="region.after" style="defaultStyle" xml:id="subtitle477">Non, je n'en ai pas besoin.</p>
+<p begin="22938000000t" end="22971200000t" region="region.after" style="defaultStyle" xml:id="subtitle478">Avant le vote, je déjeune avec les 4 types<br/>nommés par arrêté ministériel.</p>
+<p begin="22972000000t" end="22994800000t" region="region.after" style="defaultStyle" xml:id="subtitle479">- Qui ça ?<br/>- Vous savez bien, les spécialistes.</p>
+<p begin="22995600000t" end="23023200000t" region="region.after" style="defaultStyle" xml:id="subtitle480">Développement, économie,<br/>aménagement, environnement.</p>
+<p begin="23024000000t" end="23046400000t" region="region.after" style="defaultStyle" xml:id="subtitle481">Je les connais.<br/>Ils voteront comme moi.</p>
+<p begin="23058800000t" end="23081200000t" region="region.after" style="defaultStyle" xml:id="subtitle482">La parole d'un juge, c'est ça ?</p>
+<p begin="23082000000t" end="23110400000t" region="region.after" style="defaultStyle" xml:id="subtitle483">- Une juge, monsieur le Maire.<br/>- Bien sûr, je l'ai fait exprès !</p>
+<p begin="23141600000t" end="23151600000t" region="region.after" style="defaultStyle" xml:id="subtitle484">Merci.</p>
+<p begin="23364800000t" end="23406400000t" region="region.after" style="defaultStyle" xml:id="subtitle485">Le Conseil municipal de la ville<br/>a voté mercredi la transformation du port</p>
+<p begin="23407200000t" end="23426800000t" region="region.after" style="defaultStyle" xml:id="subtitle486">à l'emplacement du J1.</p>
+<p begin="23427600000t" end="23466400000t" region="region.after" style="defaultStyle" xml:id="subtitle487">Je n'ai pas besoin de vous préciser<br/>que ce vote n'aura de valeur</p>
+<p begin="23467200000t" end="23496000000t" region="region.after" style="defaultStyle" xml:id="subtitle488">que si nous acceptons<br/>de vendre à la ville de Marseille</p>
+<p begin="23496800000t" end="23529200000t" region="region.after" style="defaultStyle" xml:id="subtitle489">cet emplacement du port<br/>dont nous sommes les propriétaires.</p>
+<p begin="23530000000t" end="23548800000t" region="region.after" style="defaultStyle" xml:id="subtitle490">C'est l'objet de cette réunion.</p>
+<p begin="23549600000t" end="23560400000t" region="region.after" style="defaultStyle" xml:id="subtitle491">Mme Marek n'est pas là.</p>
+<p begin="23561200000t" end="23585200000t" region="region.after" style="defaultStyle" xml:id="subtitle492">On devait prendre un café avec elle,<br/>elle n'est pas venue.</p>
+<p begin="23586000000t" end="23605200000t" region="region.after" style="defaultStyle" xml:id="subtitle493">On commence sans elle, tant pis.</p>
+<p begin="23606000000t" end="23622400000t" region="region.after" style="defaultStyle" xml:id="subtitle494">- On pourra voter quand même ?<br/>- Oui.</p>
+<p begin="23623200000t" end="23656400000t" region="region.after" style="defaultStyle" xml:id="subtitle495">Il suffira de consigner son absence<br/>dans le compte-rendu final.</p>
+<p begin="23704800000t" end="23730000000t" region="region.after" style="defaultStyle" xml:id="subtitle496">- Oui, Costa, alors ?<br/>- Il se passe un truc, je le sens pas.</p>
+<p begin="23730800000t" end="23757600000t" region="region.after" style="defaultStyle" xml:id="subtitle497">- Ils vont voter mais la juge est absente.<br/>- Merde !</p>
+<p begin="23758400000t" end="23789200000t" region="region.after" style="defaultStyle" xml:id="subtitle498"><span style="defaultStyle_1">- Ils sont 14 au lieu de 15.</span><br/><span style="defaultStyle_1">-</span> Bon, j'arrive !</p>
+<p begin="23790000000t" end="23826400000t" region="region.after" style="defaultStyle" xml:id="subtitle499">Fred, mets le gyro, on fonce au vote<br/>du Conseil du port, allez, dépêche-toi !</p>
+<p begin="23903600000t" end="23918000000t" region="region.after" style="defaultStyle" xml:id="subtitle500">Le préfet de la région ?</p>
+<p begin="23918800000t" end="23956000000t" region="region.after" style="defaultStyle" xml:id="subtitle501">Je défends la modernisation du port,<br/>donc, je suis pour la vente.</p>
+<p begin="23964800000t" end="23992400000t" region="region.after" style="defaultStyle" xml:id="subtitle502">- Le ministre en charge du Développement ?<br/>- Pour la vente aussi.</p>
+<p begin="24013600000t" end="24035200000t" region="region.after" style="defaultStyle" xml:id="subtitle503">[sirènes]</p>
+<p begin="24081200000t" end="24118800000t" region="region.after" style="defaultStyle" xml:id="subtitle504">Le représentant<br/>du ministre en charge de l'Économie ?</p>
+<p begin="24119600000t" end="24133600000t" region="region.after" style="defaultStyle" xml:id="subtitle505">Pour la vente.</p>
+<p begin="24179600000t" end="24197600000t" region="region.after" style="defaultStyle" xml:id="subtitle506">Vous voulez pas du casino, c'est ça ?</p>
+<p begin="24198400000t" end="24210400000t" region="region.after" style="defaultStyle" xml:id="subtitle507">Non, on n'en veut pas.</p>
+<p begin="24211200000t" end="24226800000t" region="region.after" style="defaultStyle" xml:id="subtitle508">Vous travaillez pour qui ?</p>
+<p begin="24245600000t" end="24283600000t" region="region.after" style="defaultStyle" xml:id="subtitle509">[sirènes]</p>
+<p begin="24315200000t" end="24358800000t" region="region.after" style="defaultStyle" xml:id="subtitle510">Nous allons passer aux représentants<br/>des salariés du grand port de Marseille.</p>
+<p begin="24359600000t" end="24374400000t" region="region.after" style="defaultStyle" xml:id="subtitle511">Contre la vente.</p>
+<p begin="24385200000t" end="24395600000t" region="region.after" style="defaultStyle" xml:id="subtitle512">Contre la vente.</p>
+<p begin="24409200000t" end="24420400000t" region="region.after" style="defaultStyle" xml:id="subtitle513">Contre la vente.</p>
+<p begin="24490800000t" end="24502000000t" region="region.after" style="defaultStyle" xml:id="subtitle514">[bip]</p>
+<p begin="24526000000t" end="24541200000t" region="region.after" style="defaultStyle" xml:id="subtitle515">C'est bon, vous pouvez y aller.</p>
+<p begin="24688400000t" end="24728400000t" region="region.after" style="defaultStyle" xml:id="subtitle516">- M. Ridoret ?<br/>- Contre la vente.</p>
+<p begin="24739600000t" end="24764000000t" region="region.after" style="defaultStyle" xml:id="subtitle517">- On en est où ?<br/>- Nouvelle égalité.</p>
+<p begin="24764800000t" end="24789200000t" region="region.after" style="defaultStyle" xml:id="subtitle518">Le représentant du ministre du Budget ?</p>
+<p begin="24798400000t" end="24823600000t" region="region.after" style="defaultStyle" xml:id="subtitle519">- Contre le casino.<br/>- Donc, contre la vente.</p>
+<p begin="24877200000t" end="24887200000t" region="region.after" style="defaultStyle" xml:id="subtitle520">Permettez.</p>
+<p begin="24895600000t" end="24924000000t" region="region.after" style="defaultStyle" xml:id="subtitle521">Qu'est-ce que c'est que ce bordel ?<br/>Où est Mme Marek ?</p>
+<p begin="24940800000t" end="24972000000t" region="region.after" style="defaultStyle" xml:id="subtitle522">Restez si vous voulez, M. le Maire,<br/>mais laissez-nous poursuivre.</p>
+<p begin="24972800000t" end="25005600000t" region="region.after" style="defaultStyle" xml:id="subtitle523">Le vote des deux derniers représentants<br/>des collectivités locales</p>
+<p begin="25006400000t" end="25020000000t" region="region.after" style="defaultStyle" xml:id="subtitle524">sera déterminant.</p>
+<p begin="25025200000t" end="25035200000t" region="region.after" style="defaultStyle" xml:id="subtitle525">M. Chasseron ?</p>
+<p begin="25070400000t" end="25080400000t" region="region.after" style="defaultStyle" xml:id="subtitle526">Contre la vente.</p>
+<p begin="25091200000t" end="25106400000t" region="region.after" style="defaultStyle" xml:id="subtitle527">Nouvelle égalité.</p>
+<p begin="25107200000t" end="25120000000t" region="region.after" style="defaultStyle" xml:id="subtitle528">Pour finir, M. Barrès,</p>
+<p begin="25120800000t" end="25156800000t" region="region.after" style="defaultStyle" xml:id="subtitle529">en tant que représentant du Conseil<br/>municipal de la ville de Marseille.</p>
+<p begin="25157600000t" end="25182800000t" region="region.after" style="defaultStyle" xml:id="subtitle530">C'est votre vote qui fera la différence.</p>
+<p begin="25220800000t" end="25240000000t" region="region.after" style="defaultStyle" xml:id="subtitle531">J'ai décidé de voter...</p>
+<p begin="25240800000t" end="25255600000t" region="region.after" style="defaultStyle" xml:id="subtitle532">contre la vente.</p>
+<p begin="25279200000t" end="25289200000t" region="region.after" style="defaultStyle" xml:id="subtitle533">Au terme du scrutin,</p>
+<p begin="25290000000t" end="25318800000t" region="region.after" style="defaultStyle" xml:id="subtitle534">le Conseil de surveillance<br/>du grand port maritime de Marseille</p>
+<p begin="25319600000t" end="25349600000t" region="region.after" style="defaultStyle" xml:id="subtitle535">a donc refusé de vendre le J1 à la ville.</p>
+<p begin="25350400000t" end="25360400000t" region="region.after" style="defaultStyle" xml:id="subtitle536">Merci.</p>
+<p begin="25405200000t" end="25415200000t" region="region.after" style="defaultStyle" xml:id="subtitle537">Vingt ans.</p>
+<p begin="25430000000t" end="25448000000t" region="region.after" style="defaultStyle" xml:id="subtitle538">Vingt ans que j'attends ce moment.</p>
+<p begin="25674400000t" end="25693600000t" region="region.after" style="defaultStyle" xml:id="subtitle539">[Serge Gainsbourg:<br/>"Requiem Pour un Con"]</p>
+</div>
+</body>
+</tt>
