@@ -13,17 +13,19 @@ parser.add_argument("-o", "--output", type=str, default='./decks', help='Where d
 args = parser.parse_args()
 
 episodes = []
+num_episodes = 1
 
-def get_lines_from_episode(xml_file):
-    ep_tree = ET.parse(xml_file)
-    ep_root = ep_tree.getroot()
-    words = []
+def get_lines_from_episode(source, target):
+    source_tree, target_tree = ET.parse(source), ET.parse(target)
+    s_lines, t_lines = [], []
+    p = re.compile('[\[\]]')
+    for s_child, t_child in zip(source_tree.iter(), target_tree.iter()):
+        if s_child.text and t_child.text:
+            if (p.search(s_child.text) is None):
+                s_lines.append(s_child.text)
+                t_lines.append(t_child.text)
 
-    for child in ep_tree.iter():
-        if child.text:
-            words.append(child.text)
-
-    return words
+    return s_lines, t_lines
 
 # with thanks to stackoverflow
 def flatten(l):
@@ -38,12 +40,18 @@ def filter_non_words(l):
     return list([w.lower() for w in l if p.search(w) is None])
 
 os.chdir(args.input)
-for file in glob.glob("*.xml"):
-    lines = get_lines_from_episode(file)
-    words = filter_non_words(list(flatten([w for line in lines for w in line.split()])))
-    translations = []
+for ep_num in range(1, num_episodes+1):
+    source = 'source_ep' + str(ep_num) + '.xml'
+    target = 'target_ep' + str(ep_num) + '.xml'
+    source_lines, target_lines = get_lines_from_episode(source, target)
 
-    word_freqs = Counter(words)
-    episodes.append(words)
+    for s,t in zip(source_lines, target_lines):
+        print(s, "\t\t\t : ", t)
 
-print(translations)
+
+
+    #words = filter_non_words(list(flatten([w for line in lines for w in line.split()])))
+    #translations = []
+
+    #word_freqs = Counter(words)
+    #episodes.append(words)
