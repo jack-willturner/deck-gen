@@ -9,3 +9,7 @@ Future ideas:
 - [ ] Difficulty heuristic 
 - [ ] Separate vocabulary decks
 - [ ] Audio
+
+
+# Acknowledgements
+With all of the thanks to [genanki](https://github.com/kerrickstaley/genanki) for making my life extremely easy.
