@@ -1,4 +1,7 @@
-![alt-text](resources/logo.png)
+<p align="center">
+  <img src="https://github.com/jack-willturner/deck-gen/blob/master/resources/logo.png?raw=true" alt="Sublime's custom image"/>
+</p>
+<hr>
 
 Generating Anki decks for language learning.
   1. Sentence mining from the subtitles of your favourite TV shows.
@@ -18,5 +21,5 @@ First, you need to `unzip <book_name>.epub`. This should split the `epub` into a
 - [ ] Separate vocabulary decks
 - [ ] Audio
 
-# Acknowledgements
+## Acknowledgements
 With all of the thanks to [genanki](https://github.com/kerrickstaley/genanki) for making my life extremely easy.
