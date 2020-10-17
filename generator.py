@@ -110,7 +110,7 @@ for ep_num in range(1, num_episodes+1):
     target = 'target_ep' + str(ep_num) + '.xml'
     source_lines, target_lines = get_lines_from_episode(source, target)
 
-    for s,t in zip(source_lines, target_lines):
+    # for s,t in zip(source_lines, target_lines):
         if (s is not None) and (t is not None):
             note = genanki.Note(
                 model=my_model,
